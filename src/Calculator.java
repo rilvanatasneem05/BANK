@@ -38,7 +38,7 @@ public class Calculator {
             choice = scan.nextInt();
             if (choice >= 1 && choice <= 4)
             {
-                System.out.print("Enter first number: ");
+                System.out.print("Enter first number:: ");
                 double num1 = scan.nextDouble();
 
                 System.out.print("Enter second number: ");
