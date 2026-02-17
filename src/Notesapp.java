@@ -57,6 +57,7 @@ public class Notesapp {
         } catch (IOException e) {
             System.out.println("Error writing file.");
         }
+
     }
     public static void readNotes(String fileName) {
         try {
