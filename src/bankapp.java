@@ -78,7 +78,6 @@ public class bankapp {
             System.out.println("4. Transaction History");
             System.out.println("5. Exit");
             System.out.print("Enter choice: ");
-
             choice = sc.nextInt();
             if (choice == 1) {
                 System.out.print("Enter amount: ");
